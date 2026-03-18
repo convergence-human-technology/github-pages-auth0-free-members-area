@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/convergence-human-technology/github-pages-auth0-free-members-area/raw/main/fabien-conejero-131313.jpg" alt="github pages auth0 free members area / Convergence" width="100%" height="100%">
+</p>
+
 # Github Pages Auth0 - Free Members Aarea
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
